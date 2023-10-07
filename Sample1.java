@@ -1,7 +1,7 @@
 //Program to print the largest integer X obtained from a given integer N by removing exactly one digit at a time N.
 
 import java.util.*;
-public class Eg {
+public class Sample1 {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         int N=sc.nextInt();
